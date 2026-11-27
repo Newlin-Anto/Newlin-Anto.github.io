@@ -71,7 +71,7 @@ skills:
     - Waterfall
 
 # Contact Form Setup (added in step 4)
-formspree-key:
+formspree-key: https://formspree.io/f/mnpdryqz
 
 # Theme
 colors:
